@@ -1,0 +1,14 @@
+{
+  "name": "taskboard",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7",
+    "fs": "^0.0.1-security"
+  },
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
